@@ -1,0 +1,11 @@
+id: d67d04d2712c43d1a7155dde308b0085
+annotation_type: index
+revision: '00001'
+annotations:
+  ff751b6cf76e4d7a8cfb503c1075a09c:
+    base: 48F8.txt
+    Chapters:
+    - title: Poṣadhasthāpanavastu
+      span:
+        start: 0
+        end: 15027
